@@ -352,7 +352,7 @@
         "toolbar.background": "#141415",
 
         "border": "#252530",
-        "border.variant": "#878787",
+        "border.variant": "#252530",
         "border.selected": "#6e94b2",
         "border.disabled": "#252530",
         "border.focused": "#405065",
