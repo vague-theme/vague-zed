@@ -1,6 +1,6 @@
 id = "vague"
 name = "Vague Theme"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["skewb1k <skewb1kunix@gmail.com>", "L1NC5 <https://github.com/L1NC5>"]
 description = "A cool, dark, low contrast colorscheme for Zed. Pastel yet vivid, like a fleeting memory..."

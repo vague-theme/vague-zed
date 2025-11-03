@@ -1,7 +1,7 @@
 <div align="center">
   <img height="80" alt="icon" src="https://github.com/vague-theme/vague/blob/main/assets/icon.png?raw=true" />
   <h1>Vague for Zed</h1>
-  <img alt="preview" src="https://github.com/user-attachments/assets/e18da7b3-b56e-4d10-93c4-97b3e569dae7" />
+  <img alt="preview" src="https://github.com/user-attachments/assets/ac532664-1b90-4b59-8628-f191c8d67ec4" />
 </div>
 
 ## Usage
