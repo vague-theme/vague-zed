@@ -9,9 +9,3 @@
 1. Install the "Vague Theme" extension from [Zed extensions](https://zed.dev/extensions/vague).
 
 1. Enter theme selector: toggle in the command palette and select the "Vague" theme.
-
-## Thanks to contributors
-
-- [L1NC5](https://github.com/L1NC5)
-- [skewb1k](https://github.com/skewb1k)
-- [Aejkatappaja](https://github.com/Aejkatappaja)
