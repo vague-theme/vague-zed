@@ -300,7 +300,7 @@
 
         "ghost_element.background": "#141415",
         "ghost_element.disabled": "#141415",
-        "ghost_element.hover": "#141415",
+        "ghost_element.hover": "#252530",
         "ghost_element.active": "#252530",
         "ghost_element.selected": "#252530",
 
