@@ -292,29 +292,30 @@
         "text.muted": "#cdcdcd",
         "text.placeholder": "#606079",
 
-        "element.background": "#141415",
         "element.active": "#252530",
+        "element.background": "#141415",
         "element.disabled": "#141415",
         "element.hover": "#606079",
         "element.selected": "#252530",
 
+        "ghost_element.active": "#252530",
         "ghost_element.background": "#141415",
         "ghost_element.disabled": "#141415",
         "ghost_element.hover": "#141415",
-        "ghost_element.active": "#252530",
         "ghost_element.selected": "#252530",
 
-        "icon.accent": "#6e94b2",
-        "icon.muted": "#606079",
         "icon": "#cdcdcd",
+        "icon.accent": "#6e94b2",
         "icon.disabled": "#606079",
+        "icon.muted": "#606079",
         "icon.placeholder": "#c3c3d5",
+
         "debugger.accent": "#d8647e",
 
         "scrollbar.thumb.background": "#33373878",
+        "scrollbar.thumb.border": "#00000000",
         "scrollbar.thumb.hover_background": "#33373878",
         "scrollbar.track.border": "#00000000",
-        "scrollbar.thumb.border": "#00000000",
 
         "drop_target.background": "#40506580",
 
@@ -355,11 +356,11 @@
         "toolbar.background": "#141415",
 
         "border": "#252530",
-        "border.variant": "#252530",
-        "border.selected": "#6e94b2",
         "border.disabled": "#252530",
         "border.focused": "#405065",
+        "border.selected": "#6e94b2",
         "border.transparent": "#00000000",
+        "border.variant": "#252530",
 
         "terminal.ansi.black": "#252530",
         "terminal.ansi.bright_black": "#606079",
