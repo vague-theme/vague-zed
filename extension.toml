@@ -1,7 +1,7 @@
 id = "vague"
 name = "Vague Theme"
-version = "0.1.1"
+version = "0.2.0"
 schema_version = 1
-authors = ["Artem Krinitsyn <arkriny@gmail.com>", "L1NC5 <https://github.com/L1NC5>"]
+authors = ["Artem Krinitsyn <arkriny@arkriny.com>", "L1NC5 <https://github.com/L1NC5>"]
 description = "A cool, dark, low contrast colorscheme for Zed. Pastel yet vivid, like a fleeting memory..."
 repository = "https://github.com/vague-theme/vague-zed"
