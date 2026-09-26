@@ -294,14 +294,14 @@
 
         "element.active": "#252530",
         "element.background": "#141415",
-        "element.disabled": "#141415",
-        "element.hover": "#606079",
+        "element.disabled": "#1c1c24",
+        "element.hover": "#1c1c24",
         "element.selected": "#252530",
 
         "ghost_element.active": "#252530",
         "ghost_element.background": "#141415",
-        "ghost_element.disabled": "#141415",
-        "ghost_element.hover": "#141415",
+        "ghost_element.disabled": "#1c1c24",
+        "ghost_element.hover": "#1c1c24",
         "ghost_element.selected": "#252530",
 
         "icon": "#cdcdcd",
